@@ -1,7 +1,6 @@
 # Tableau-Citi-Bike-Analytics
 
 # Tableau Public - City Bike Analytics
-## https://public.tableau.com/app/profile/marisa.k8190/viz/CitiBikeAnalytics_16374523317190/CitiBikeDataAnalysis_1
 ## https://public.tableau.com/app/profile/marisa.k8190
 
 ## Current Peak Citi Bike Usage
