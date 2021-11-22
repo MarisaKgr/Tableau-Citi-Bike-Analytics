@@ -19,4 +19,4 @@
 ## Peak Season Citi Bike User Demographic August 2015-2020
 ### Data collected of August from 2015-2020 was aggregated for visualizations.
 ### User demographic information (gender, birth year, and usertype) showed that the leading user demographic is males aged 40-50 yrs.  Weekday usage showed greater use during the ### week as opposed to weekends.   
-### https://github.com/MarisaKgr/Tableau-Citi-Bike-Analytics/blob/main/images/Peak_Season_August_Tableau.JPG
+### (/images/Peak_Season_August_Tableau.JPG)
